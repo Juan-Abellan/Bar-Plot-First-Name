@@ -5,7 +5,7 @@
 In this exercise, we are going to recreate plots from this [article](https://www.data-to-viz.com/graph/barplot.html).
 Read the **article** to **learn more** about bar plot.
 
-TAnd to learn more best practices around bar plot read these 3 short articles.
+To learn more about best practices around bar plot read these 3 short articles.
 
 - [Hard Label](https://www.data-to-viz.com/caveat/hard_label.html)
 - [Grouped Bar](https://www.data-to-viz.com/caveat/grouped_bar.html)
